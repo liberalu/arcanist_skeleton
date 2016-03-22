@@ -1,0 +1,7 @@
+{
+  "project_id": "project_id",
+  "load": [
+        "skeleton"
+  ],
+  "unit.engine": "SkeletonTestEngine"
+}
